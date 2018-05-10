@@ -1,4 +1,4 @@
-# PID Controller for the Udacity Simulator
+# PID Control
 
 This project consists of a c++ implementation of PID controller to control the steering angle of a car using the Udacity simulator. The main goals of this project is to develop a c++ PID controller that successfully drives the vehicle around the track (Udacity simulator). Figure 1 depicts the car being controlled by the PID controller. 
 
