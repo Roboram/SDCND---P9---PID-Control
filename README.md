@@ -11,11 +11,6 @@ The source code for this project is available at [project code](https://github.c
 The following files are part of this project: 
 * pid.cpp:   PID controller class definition;
 * main.cpp:  main file that integrates the PID controller with the simulator.
-* images: 
-** kp.mp4:  P controller (mannually tuned) driving the car;
-** kd.mp4:  PD controller (mannually tuned) driving the car;
-** ki.mp4:  PID controller (mannually tuned) driving the car;
-** pid.mp4:  Final PID controller (auto tuned) driving the car;
 
 ### 2.1 Dependency
 
